@@ -1,0 +1,34 @@
+{
+  "shoppingList": {
+    "groceries": [
+      {
+        "item": "Parle G",
+        "quantity": 1,
+        "unit": "lbs"
+      },
+      {
+        "item": "chocolates",
+        "quantity": 20,
+        "unit": "kg"
+      },
+      {
+        "item": "fngfvfcn",
+        "quantity": 20,
+        "unit": "kg"
+      }
+    ],
+    "personalCare": [],
+    "householdItems": [
+      {
+        "item": "Parle G",
+        "quantity": 1,
+        "unit": "unit"
+      },
+      {
+        "item": "biscuits",
+        "quantity": 1,
+        "unit": "unit"
+      }
+    ]
+  }
+}
